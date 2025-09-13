@@ -14,7 +14,7 @@
 ### ⚡ About me
 - 🔭 Working on **Video Understanding & Multimodal Learning**
 - 🌱 Learning **Computer Vision, LLMs, MLOps, Agentic AI**
-- 🧭 Goal: build practical, privacy-friendly **AI tools for education & careers**
+- 🧭 Goal: learn continuously, conduct research, build AI tools, and share to inspire the community
 - 🗂️ All projects: **https://github.com/hanguyenai**
 
 ---
@@ -50,7 +50,7 @@
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=hanguyenai&theme=radical" />
 </p>
 
-<!-- Optional trophies (bật nếu bạn thích nhiều huy hiệu hơn)
+<!-- Optional trophies 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hanguyenai&theme=onedark&row=1&column=6" />
 </p>
