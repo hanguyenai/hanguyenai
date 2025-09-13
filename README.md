@@ -42,19 +42,16 @@
 ---
 
 ### 📊 Stats
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hanguyenai&show_icons=true&theme=radical&hide_title=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanguyenai&layout=compact&theme=radical" />
-</p>
-<p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=hanguyenai&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=hanguyenai&show_icons=true&theme=transparent&hide_title=true&count_private=true&title_color=000&text_color=000&icon_color=2f80ed" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanguyenai&layout=compact&theme=transparent&title_color=000&text_color=000" />
 </p>
 
-<!-- Optional trophies 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hanguyenai&theme=onedark&row=1&column=6" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=hanguyenai&theme=transparent&date_format=j%20M%5B%20Y%5D&ring=2f80ed&fire=2f80ed&currStreakLabel=2f80ed" />
 </p>
--->
+
 
 ---
 
