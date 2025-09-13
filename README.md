@@ -43,14 +43,14 @@
 
 ### 📊 Stats
 
-| GitHub Stats | Top Languages |
-|--------------|---------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanguyenai&show_icons=true&theme=transparent&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanguyenai&layout=compact&theme=transparent) |
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=hanguyenai&show_icons=true&theme=transparent&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanguyenai&layout=compact&theme=transparent" />
+</p>
 
-| Streak |
-|--------|
-| ![Streak](https://github-readme-streak-stats.herokuapp.com?user=hanguyenai&theme=transparent) |
-
+<p align="center">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=hanguyenai&theme=transparent" />
+</p>
 
 
 ---
