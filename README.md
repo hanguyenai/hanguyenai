@@ -1,26 +1,73 @@
+<!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Ha Nguyen</h1>
-<h3 align="center">🎓 Final-year Computer Science student at UIT – VNUHCM, aspiring AI/ML researcher</h3>
+<h3 align="center">🎓 Final-year CS @ UIT – VNUHCM • Aspiring AI/ML Researcher</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hanguyenai&label=Profile%20views&color=0e75b6&style=flat" alt="hanguyenai" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanguyenai" alt="hanguyenai" /></a> </p>
-
-- 🔭 I’m currently working on **Research in Video Understanding & Multimodal Learning**
-
-- 🌱 I’m currently learning **Computer Vision, LLMs, MLOps, Agentic AI**
-
-- 👨‍💻 All of my projects are available at [https://github.com/hanguyenai](https://github.com/hanguyenai)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hanguyen2212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hanguyen2212/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/hanguyen2212/">
+    <img src="https://img.shields.io/badge/LinkedIn-hanguyen2212-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ngtngochaa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ngtngochaa%40gmail.com-EA4335?logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=hanguyenai&label=Views&color=0e75b6&style=flat" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanguyenai&show_icons=true&locale=en&layout=compact" alt="hanguyenai" /></p>
+### ⚡ About me
+- 🔭 Working on **Video Understanding & Multimodal Learning**
+- 🌱 Learning **Computer Vision, LLMs, MLOps, Agentic AI**
+- 🧭 Goal: build practical, privacy-friendly **AI tools for education & careers**
+- 🗂️ All projects: **https://github.com/hanguyenai**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanguyenai&show_icons=true&locale=en" alt="hanguyenai" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanguyenai&" alt="hanguyenai" /></p>
+### 🧰 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-5C3EE8?logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
+</p>
+
+---
+
+### 🚀 What I'm up to (now)
+- 📖 Reproducing **video anomaly / interaction** baselines & writing tidy notebooks  
+- 🧪 Experimenting **lightweight LLM eval** + prompt baselines for resume analysis  
+- 🛠️ Turning notes → small open-source utilities (CLI + Streamlit)
+
+---
+
+### 📊 Stats
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hanguyenai&show_icons=true&theme=radical&hide_title=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanguyenai&layout=compact&theme=radical" />
+</p>
+<p align="center">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=hanguyenai&theme=radical" />
+</p>
+
+<!-- Optional trophies (bật nếu bạn thích nhiều huy hiệu hơn)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hanguyenai&theme=onedark&row=1&column=6" />
+</p>
+-->
+
+---
+
+### 🤝 Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/hanguyen2212/">
+    <img height="28" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:ngtngochaa@gmail.com">
+    <img height="28" src="https://img.shields.io/badge/Email-Write%20to%20me-EA4335?logo=gmail&logoColor=white" />
+  </a>
+</p>
