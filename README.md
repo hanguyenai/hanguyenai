@@ -6,9 +6,6 @@
   <a href="https://www.linkedin.com/in/hanguyen2212/">
     <img src="https://img.shields.io/badge/LinkedIn-hanguyen2212-0A66C2?logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ngtngochaa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ngtngochaa%40gmail.com-EA4335?logo=gmail&logoColor=white" />
-  </a>
   <img src="https://komarev.com/ghpvc/?username=hanguyenai&label=Views&color=0e75b6&style=flat" />
 </p>
 
