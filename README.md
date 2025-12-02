@@ -44,7 +44,6 @@
 ### 📊 Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=hanguyenai&show_icons=true&theme=transparent&count_private=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanguyenai&layout=compact&theme=transparent" />
 </p>
 
